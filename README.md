@@ -1,4 +1,4 @@
-# Tweeter Sentimental Analysis
+# Twitter Sentimental Analysis
 
 A machine learning project (Naï ve Bayes Classifier).
 An automatic sentiment (positive, negative or neutral) is extracted from a tweet. We have used this on election polls to
